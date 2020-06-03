@@ -18,6 +18,9 @@ Branch:Creating a branch On GitHub, navigate to the main page of the repository.
        Click the branch selector menu. Type a unique name for your new branch, then select Create branch.
 
 Merge:Merging is Git's way of putting a forked history back together again
+      Currently, Test Branch is ahead of the Master by 1 commit.
+      Let’s say that now we want all the code in the Test Branch to be brought back to the Master Branch. 
+      This is where git merge is very useful.
 
 Merge Conflict: two branches were changed on the same line or in the same content of a file before a merge.
 
@@ -25,3 +28,45 @@ Fetch: git fetch really only downloads new data from a remote repository
       - but it doesn't integrate any of this new data into your working files
 
 remote:A remote in Git is a common repository that all team members use to exchange their changes. 
+
+
+HOW TO USE GIT
+    first, how is a Git-Git is an Open Source Distributed Version Control System. Now that’s a lot of words to define Git.
+    then, how to use GIT
+        1)Download git
+        2)Create your local Git repository
+        3)Add some Small Code 
+        4)Staging and Committing the code
+        5)Git Status and Git Log
+        6)Create a New Branch in Local
+        7)Merging
+        8)Here we will be using GitHub for the remote repository.
+        *!! Here we will be using GitHub for the remote repository.
+    
+HOW TO USE GITHUB
+    Step 1. Create a Repository
+    Step 2. Create a Branch
+    Step 3. Make and commit changes
+    Step 4. Open a Pull Request
+    Step 5. Merge your Pull Request
+    final step! Celebrate! By completing this tutorial, you’ve learned to create a project and make a pull request on GitHub
+   
+   WebStorm
+    -What is WebStorm 
+        WebStorm is a powerful IDE for modern JavaScript development.
+        WebStorm provides full support for JavaScript, TypeScript, HTML, CSS etc.
+    -Webstorm tutorial
+        1)Open, check out, or create a project
+        2)Get familiar with the WebStorm user interface
+        3)Find your way through
+        4)Inspect and fix your code on the fly
+        5)Refactor your code
+        6)Run and debug your application
+        7)Follow your code style standards
+        8)Keep your source code under Version Control
+        9)Customize your environment
+        
+ citation
+ https://www.toolsqa.com/git/create-github-repository/
+ https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/
+ https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
