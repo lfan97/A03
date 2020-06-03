@@ -1,0 +1,27 @@
+GIT: Git is a content management and tracking system developed by Linus Torvalds, creator of Linux. 
+    It includes a directory that continuously changes as codes are added throughout application or website development. 
+
+GITHUB: GitHub is a web-based version-control and collaboration platform for software developers. 
+
+Repository:Git repository is just a file location where you are storing all the files related to your project.
+
+Clone: Clone in GitHub repository creates a local copy of the remote repo,make a copy.
+
+Commit: Git Commits. A Git commit is a snapshot of the hierarchy and the contents of the files  in a Git repository
+       These endpoints allow you to read and write commit objects to your Git database on GitHub.
+
+Push:Pushing to GitHub means uploading to a GitHub repositor
+
+Pull:Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub.
+
+Branch:Creating a branch On GitHub, navigate to the main page of the repository.
+       Click the branch selector menu. Type a unique name for your new branch, then select Create branch.
+
+Merge:Merging is Git's way of putting a forked history back together again
+
+Merge Conflict: two branches were changed on the same line or in the same content of a file before a merge.
+
+Fetch: git fetch really only downloads new data from a remote repository 
+      - but it doesn't integrate any of this new data into your working files
+
+remote:A remote in Git is a common repository that all team members use to exchange their changes. 
